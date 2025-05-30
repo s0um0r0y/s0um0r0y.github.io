@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Soumo Roy
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Shomu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Soumo 
+last_name: Roy
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research associate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Robotics Research Center. IIIT Hyderabad
+    url: https://robotics.iiit.ac.in/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,8 +48,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Computer Vision
 
 education:
   - area: PhD Artificial Intelligence
