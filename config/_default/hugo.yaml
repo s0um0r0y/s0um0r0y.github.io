@@ -6,7 +6,8 @@
 # Website name
 title: Soumo Roy
 # Website URL
-baseURL: 
+baseURL: 'https://s0um0r0y.github.io'
+
 ############################
 ## LANGUAGE
 ############################
