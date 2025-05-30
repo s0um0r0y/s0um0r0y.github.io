@@ -97,7 +97,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-05-01
-    date_end: 2024-06-1
+    date_end: ''
     summary: |
       Responsibilities include:
       - Guided by Dr. Tushar Sandhan and Mr. Prem Raj at Intelligent System Control Lab, IIT Kanpur
