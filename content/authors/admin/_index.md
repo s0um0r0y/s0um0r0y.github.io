@@ -183,6 +183,6 @@ awards:
 
 ## About Me
 
-I am a Research Assistant at IIIT Hyderabad, where I specialize in developing path planning algorithms for autonomous robots using learning based approach under Dr Madhava Krishna. With a Bachelor's degree in Electronics and Communication Engineering from VIT Vellore, my academic journey has been driven by a passion for robotics and intelligent systems.
+I am a Research Associate at IIIT Hyderabad, where I specialize in developing path planning algorithms for autonomous robots using learning based approach under Dr Madhava Krishna. With a Bachelor's degree in Electronics and Communication Engineering from VIT Vellore, my academic journey has been driven by a passion for robotics and intelligent systems.
 
-My research interests lie at the intersection of robotics and machine learning, focusing on creating intelligent systems capable of real-world applications. At IIIT Hyderabad, I have been involved in projects that integrate perception, planning, and control to enhance the autonomy of robotic platforms. I previosly worked under Dr Tushar Sandhan at IIT Kanpur where I worked on human robot collaboration under the SURGE internship program.
+My research interests lie at the intersection of robotics and machine learning, focusing on creating intelligent systems capable of real-world applications.I previosly worked under Dr Tushar Sandhan at IIT Kanpur where I worked on human robot collaboration under the SURGE internship program.
