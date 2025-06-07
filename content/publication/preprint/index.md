@@ -1,7 +1,13 @@
 ---
 title: "SKIDS: An Object Classification and Smart Communication based Waste Bin"
+
 authors:
-- admin
+- Shriya Chowdhury 
+- Soumo Roy
+- Dishanwita Ghosh Chowdhury 
+- Srijeet Chakraborty
+- Budhaditya Bhattacharyya
+
 date: "2024-04-07T00:00:00Z"
 doi: ""
 
