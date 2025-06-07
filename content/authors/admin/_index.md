@@ -97,7 +97,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-05-01
-    date_end: ''
+    date_end: 2024-07-01
     summary: |
       Responsibilities include:
       - Guided by Dr. Tushar Sandhan and Mr. Prem Raj at Intelligent System Control Lab, IIT Kanpur
@@ -105,6 +105,16 @@ work:
         RealSense camera for the collaborative action of heavy object lifting with an efficiency of 68% compared to
         reinforcement learning approaches.
       - Was one among 42 students selected under the institute project funded category at the IIT Kanpur
+  - position: Robotics System Validation Intern 
+    company_name: Unbox Robotics
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: '2023-11-01'
+    summary: |
+      Responsibilities include:
+      - Developed on a project to automate the testing of the web page used for controlling robots using webdriver.io and
+      JavaScript, Docker and deployed it on GitLab CI/CD pipeline, which improved validation teams’ testing efficiency by 20%.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
