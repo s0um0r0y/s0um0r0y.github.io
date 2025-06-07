@@ -3,7 +3,7 @@ title: "SKIDS: An Object Classification and Smart Communication based Waste Bin"
 
 authors:
 - Shriya Chowdhury 
-- Soumo Roy
+- admin
 - Dishanwita Ghosh Chowdhury 
 - Srijeet Chakraborty
 - Budhaditya Bhattacharyya
@@ -20,8 +20,8 @@ publishDate: "2024-06-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: in "2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)"
-publication_short: in "IEEE AIIoT 24"
+publication: in *2024 3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)*
+publication_short: in *IEEE AIIoT 24*
 
 abstract: The study introduces SKIDS, a Smart Bin system using IoT for effective waste management. It utilizes YOLOv8 for object detection and classification, integrating a custom dataset. Firmata serves as a communication protocol between microcontrollers and host computers, with PyFirmata enabling Python interaction. Hardware includes a servo motor controlled by PyFirmata for classification of Plastic and Non-Plastic Waste, an ultrasonic sensor for distance measurement, and Arduino IDE for control. The system employs the Bluetooth Terminator app to alert garbage collection vehicles based on bin capacity. Integration of communication modules, sensors, and machine learning facilitates intelligent waste management and segregation. Experimental evaluation demonstrates the system’s ability to accurately categorize waste types and improve collection procedures compared to traditional methods. Performance metrics such as accuracy, precision, and recall validate its effectiveness in promoting sustainable urban environments through ML-based waste management.
 
