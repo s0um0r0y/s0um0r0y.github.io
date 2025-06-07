@@ -34,8 +34,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: https://drive.google.com/file/d/13mqFshndAoBhFFp9LLuMYx3eq40I_ME-/view?usp=sharing
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
