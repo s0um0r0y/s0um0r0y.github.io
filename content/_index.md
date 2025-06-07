@@ -36,6 +36,8 @@ sections:
       subtitle: ''
       text: |-
         At IIIT Hyderabad, my research focuses on integrating deep learning algorithms with robotic platforms to enhance autonomy and decision-making capabilities. I have been involved in projects that encompass sensor integration of 3D Lidar and depth camera, real-time data processing, and the development of control strategies for autonomous navigation.
+
+        My technical proficiency includes programming languages such as Python and C++, and I am adept at using tools like ROS (Robot Operating System) and OpenCV for developing and simulating robotic applications. I am passionate about advancing the field of robotics through innovative research.
         
         Please reach out to me on Linkdin to collaborate 😃
     design:
