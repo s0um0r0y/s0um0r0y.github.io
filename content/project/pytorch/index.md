@@ -1,6 +1,6 @@
 ---
 title: Crowdsurfer-ROS
-# date: 
+date: 2025-05-31
 external_link: https://github.com/s0um0r0y/crowdsurfer-ros1
 tags:
   - Hugo

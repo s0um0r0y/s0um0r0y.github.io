@@ -1,6 +1,6 @@
 ---
 title: Spoon feeder
-# date: 2023-10-26
+date: 2024-08-26
 external_link: https://github.com/s0um0r0y/spoon-feeder-ROS
 tags:
   - Hugo
