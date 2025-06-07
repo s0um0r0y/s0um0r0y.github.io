@@ -27,7 +27,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE INDICON-24 conference*
-publication_short: In *INDICON*
+publication_short: In *IEEE INDICON 2024*
 
 abstract: In the field of assistive technology, adaptive robotic manipulators offer a promising avenue for improving the standard of living for those who have impairments. This paper detailsa simulation study of an advanced robotic manipulator developed for feeding and drinking assistance. The simulation features a detailed model of three robotic arm outfitted with a specialized gripper and a spoon-like attachment, showcasing the robot’scapacity to adjust to various user requirements and environmental conditions. Key innovations include the robot’s real-time adaptation to user-specific feeding angles, precise control of liquid dispensing for drinking, and the creation of intuitive human-robot interaction protocols using reinforcement learning. The system’s performance is assessed within a simulated environment that includes a human model interacting with the robot at a dining setup, showing the robot’s ability to execute assistive actions with high precision and safety. Preliminary findings suggest that these robotic systems have significant potential to offer reliable and autonomous assistance, thereby enhancing independence and alleviating caregiver workload.
 
