@@ -35,7 +35,7 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: ""
 #   url: ""
 url_pdf: https://drive.google.com/file/d/1NHFhxT6kZ5IUqvPuXwbyoP6MS2NntR8r/view?usp=sharing
