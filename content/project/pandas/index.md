@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Spoon feeder
+# date: 2023-10-26
+external_link: https://github.com/s0um0r0y/spoon-feeder-ROS
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Implemented reinforcement learning algorithms (PPO, SAC and DDPG) across different manipulators simulating feeding and drinking tasks on OpenAI gym, which was published in IEEE INDICON-24 conference
 
 <!--more-->

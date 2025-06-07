@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+title: Crowdsurfer-ROS
+# date: 
+external_link: https://github.com/s0um0r0y/crowdsurfer-ros1
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Utilized generative AI with sampling optimiser for path planning for a mobile robot to navigate in a crowded environment with dynamic obstacles, won best bachelor thesis award for the project 
 
 <!--more-->
