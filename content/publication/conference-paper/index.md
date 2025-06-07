@@ -7,6 +7,7 @@ title: 'Adaptive Robotic Manipulator Simulation for Enhanced Feeding and Drinkin
 authors:
   - Soumo Roy
   - Joel Viju
+  - Budhaditya Bhattacharyya
 
 # Author notes (optional)
 # author_notes:
