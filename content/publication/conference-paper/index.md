@@ -1,23 +1,23 @@
 ---
-title: 'An example conference paper'
+title: 'Adaptive Robotic Manipulator Simulation for Enhanced Feeding and Drinking Assistance'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Soumo Roy
+  - Joel Viju
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-12-21T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-05-23T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +25,16 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *IEEE INDICON-24 conference*
+publication_short: In *INDICON*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In the field of assistive technology, adaptive robotic manipulators offer a promising avenue for improving the standard of living for those who have impairments. This paper detailsa simulation study of an advanced robotic manipulator developed for feeding and drinking assistance. The simulation features a detailed model of three robotic arm outfitted with a specialized gripper and a spoon-like attachment, showcasing the robot’scapacity to adjust to various user requirements and environmental conditions. Key innovations include the robot’s real-time adaptation to user-specific feeding angles, precise control of liquid dispensing for drinking, and the creation of intuitive human-robot interaction protocols using reinforcement learning. The system’s performance is assessed within a simulated environment that includes a human model interacting with the robot at a dining setup, showing the robot’s ability to execute assistive actions with high precision and safety. Preliminary findings suggest that these robotic systems have significant potential to offer reliable and autonomous assistance, thereby enhancing independence and alleviating caregiver workload.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Implemented reinforcement learning algorithms (PPO, SAC and DDPG) across different manipulators simulating feeding and drinking tasks on OpenAI gym, which was published in IEEE INDICON-24 conference
 
 tags:
-  - Large Language Models
+  - Assistive Robotics
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,13 +45,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
+url_code: 'https://github.com/s0um0r0y/spoon-feeder-ROS'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_poster: ''
+url_project: 'https://github.com/s0um0r0y/spoon-feeder-ROS'
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_video: 'https://www.youtube.com/watch?v=lUmjaiPeUig'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
