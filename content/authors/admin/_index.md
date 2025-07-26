@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Associate
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -43,12 +43,12 @@ profiles:
     url: https://www.linkedin.com/in/soumo-roy/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=j1RNdMsAAAAJ&hl=en
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+  - icon: academicons/orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0004-3154-5414
 
 interests:
   - Artificial Intelligence
-  - Robotics
+  - Assistive Robotics
   - Computer Vision
 
 education:
@@ -80,7 +80,7 @@ education:
       GPA: 8.83/10.0
       
 work:
-  - position: Research Associate
+  - position: Research Assistant
     company_name: IIIT Hyderabad
     company_url: ''
     company_logo: ''
@@ -179,6 +179,6 @@ awards:
 
 ## About Me
 
-I am a Research Associate at IIIT Hyderabad, where I specialize in developing path planning algorithms for autonomous robots using learning based approach under Dr Madhava Krishna. With a Bachelor's degree in Electronics and Communication Engineering from VIT Vellore, my academic journey has been driven by a passion for robotics and intelligent systems.
+I am a Research Assistant at IIIT Hyderabad, where I specialize in developing path planning algorithms for autonomous robots using learning based approach under Dr Madhava Krishna. With a Bachelor's degree in Electronics and Communication Engineering from VIT Vellore, my academic journey has been driven by a passion for robotics and intelligent systems.
 
 My research interests lie at the intersection of robotics and machine learning, focusing on creating intelligent systems capable of real-world applications.I previosly worked under Dr Tushar Sandhan at IIT Kanpur where I worked on human robot collaboration under the SURGE internship program.
