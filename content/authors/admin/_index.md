@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Assistant
+role: MS by Research CSE
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0004-3154-5414
 
 interests:
-  - Artificial Intelligence
   - Assistive Robotics
   - Computer Vision
+  - Multi Object Tracking
 
 education:
   # - area: PhD Artificial Intelligence
@@ -61,17 +61,17 @@ education:
   #   button:
   #     text: 'Read Thesis'
   #     url: 'https://example.com'
-  # - area: MEng Artificial Intelligence
-  #   institution: Massachusetts Institute of Technology
-  #   date_start: 2016-01-01
-  #   date_end: 2020-12-31
-  #   summary: |
-  #     GPA: 3.8/4.0
+  - area: MS by Research Computer Science Engineering
+    institution: International Institute of Information Technology
+    date_start: 2026-08-01
+    date_end: 2029-12-31
+    # summary: |
+    #   GPA: 3.8/4.0
 
-  #     Courses included:
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Tech Electronics and Communication Engineering
     institution: Vellore Institute of Technology
     date_start: 2021-05-01
