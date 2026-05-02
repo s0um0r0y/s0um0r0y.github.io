@@ -1,13 +1,12 @@
 ---
-title: Crowdsurfer-ROS
-date: 2025-05-31
-external_link: https://github.com/s0um0r0y/crowdsurfer-ros1
+title: MSALT
+date: 2026-05-02
+external_link: https://github.com/s0um0r0y/MSALT
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Computer vision (SAM2 + YOLO)
+  - pyQt
 ---
 
-Utilized generative AI with sampling optimiser for path planning for a mobile robot to navigate in a crowded environment with dynamic obstacles, won best bachelor thesis award for the project 
+Multi Sensor Annotation Labelling Tool for annotating images and 3D pointclouds side by side with automation for improved efficiency and accuracy using AI automations.
 
 <!--more-->
